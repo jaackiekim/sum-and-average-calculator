@@ -1,8 +1,5 @@
 //============================================================================
-// File name: CS002 Assignment 3
 // Author: Jacqueline Kim
-// Email Address: jkim313@go.pasadena.edu
-// Problem #: 10
 // Description: This program calculates the sum and average of all positive inputs, all negative inputs,
 // and all inputs total. 
 // Last modified: 2/28/19
